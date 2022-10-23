@@ -13,7 +13,7 @@ The website I got my data from: [Gas price data](https://github.com/KeithGalli/m
 
 
 
-The graph above represents the change in the value of the US GDP (Gross Domestic Product) from 1960 all the way to 2020. As shown in the graph above, there is an overall upward trend as the value of the GDP (dollars in trillions) skyrockets upwards throughout the years. During 1960, the approximate value of the US GDP was 0.1 USD, in recent years (2020), the value has increased all the way to approximatetly 2.4 USD. 
+The graph above represents the change in the value of the US GDP (Gross Domestic Product) from 1960 all the way to 2021. As shown in the graph above, there is an overall upward trend as the value of the GDP (dollars in trillions) skyrockets upwards throughout the years. During 1960, the approximate value of the US GDP was 0.1 USD, in recent years (2021), the value has increased all the way to approximatetly 2.4 USD. 
 
 The website I got my data from: [US GDP](https://github.com/jdorfman/awesome-json-datasets)
 
