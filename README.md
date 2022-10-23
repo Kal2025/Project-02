@@ -15,4 +15,6 @@ The website I got my data from: [Gas price data](https://github.com/KeithGalli/m
 
 The graph above represents the change in the value of the US GDP (Gross Domestic Product) from 1960 all the way to 2020. As shown in the graph above, there is an overall downward trend as the value of the GDP (dollars in trillions) plummets downards throughout the years. During 1960, the approximate value of the US GDP was 2.3 trillion dollars, in recent years (2020), the value has dropped all the way down to approximatetly 0.1 trillion dollars. 
 
-The website I got my data from: 
+The website I got my data from: [US GDP](https://github.com/jdorfman/awesome-json-datasets)
+
+The instructions for this assaignment are [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02)
