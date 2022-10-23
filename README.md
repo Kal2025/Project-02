@@ -17,4 +17,4 @@ The graph above represents the change in the value of the US GDP (Gross Domestic
 
 The website I got my data from: [US GDP](https://github.com/jdorfman/awesome-json-datasets)
 
-The instructions for this assaignment are [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02)
+The instructions for this project are [here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02)
